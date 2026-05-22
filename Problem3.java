@@ -25,7 +25,6 @@ class Problem3 {
             }
 
         }
-
     return -1;
     }
 }
